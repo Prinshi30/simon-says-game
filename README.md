@@ -10,7 +10,7 @@
 </div>
 
 ## Live-Demo-
-[simon-says-game](https://spotify-clone-javascript.netlify.app/](https://65bd3d7867b2ae2f6d31d7a4--thunderous-meerkat-6f7dce.netlify.app/))
+[simon-says-game](https://animated-croquembouche-d47cda.netlify.app/)
 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e37fba97-0766-4626-9212-06a9fa3e5f00/deploy-status)](https://app.netlify.com/sites/animated-marshmallow-d90790/deploys)
