@@ -16,6 +16,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e37fba97-0766-4626-9212-06a9fa3e5f00/deploy-status)](https://app.netlify.com/sites/animated-marshmallow-d90790/deploys)
 
 ## Screenshot-
-![image](https://github.com/Prinshi30/simon-says-game/blob/8a731567511d0cc063a7388d1146e11ff0572875/Simon%20Says%20Game.png
-)
+![image](https://github.com/Prinshi30/simon-says-game/blob/8a731567511d0cc063a7388d1146e11ff0572875/Simon%20Says%20Game.png)
 
